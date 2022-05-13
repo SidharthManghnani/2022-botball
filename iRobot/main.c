@@ -36,7 +36,6 @@
     msleep(100);
   
      
-   // int x = 0; SS detected. Must eliminate. 
     drive(200, 670);
     msleep(100);
     create_stop();
